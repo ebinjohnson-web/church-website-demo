@@ -84,7 +84,7 @@ if (demoForm && demoResponse) {
     event.preventDefault();
     demoResponse.classList.add("is-visible");
     demoResponse.textContent =
-      "This is a demo contact form for layout purposes. On a live site, this could connect to Formspree, Basin, or your church office email.";
+      "Demo form only. A live version can connect to your church office email or a form service.";
     demoForm.reset();
   });
 }
