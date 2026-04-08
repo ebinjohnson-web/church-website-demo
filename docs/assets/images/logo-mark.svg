@@ -1,0 +1,14 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Grace Harbour Church logo mark">
+  <defs>
+    <linearGradient id="lg" x1="112" y1="74" x2="420" y2="430" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B6A43"/>
+      <stop offset="1" stop-color="#162134"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="128" fill="url(#lg)"/>
+  <circle cx="256" cy="256" r="162" fill="#FFF6E9" fill-opacity="0.14"/>
+  <path d="M182 260L256 184L330 260V348H182V260Z" fill="#FFF6E9"/>
+  <path d="M238 260H274V348H238V260Z" fill="#D8C09C"/>
+  <path d="M247 156H265V230H247V156Z" fill="#FFF6E9"/>
+  <path d="M222 184H290V200H222V184Z" fill="#FFF6E9"/>
+</svg>
