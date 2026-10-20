@@ -1,12 +1,4 @@
-:HL["/church-website-demo/_next/static/chunks/1jlraogvkz91i.css","style"]
-:HL["/church-website-demo/assets/images/pexels-church-exterior.jpg","image"]
-:HL["/church-website-demo/assets/images/about-church.jpg","image"]
-:HL["/church-website-demo/assets/images/ministries-kids.jpg","image"]
-:HL["/church-website-demo/assets/images/ministries-groups.jpg","image"]
-:HL["/church-website-demo/assets/images/ministries-care.jpg","image"]
-:HL["/church-website-demo/assets/images/ministries-outreach.jpg","image"]
-:HL["/church-website-demo/assets/images/sermon-preach.jpg","image"]
-:HL["/church-website-demo/assets/images/sermon-study.jpg","image"]
-:HL["/church-website-demo/assets/images/sermon-bible.jpg","image"]
+:HL["/church-website-demo/_next/static/chunks/3ke-1hryuu0n6.css","style"]
+:HL["/church-website-demo/assets/photos/church-community.jpg","image",{"fetchPriority":"high"}]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"pmFuJ7VNM_yAAs7fpclcB","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"pa1CffIXA7M_aTz280MAQ","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

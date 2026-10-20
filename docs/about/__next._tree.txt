@@ -1,6 +1,5 @@
-:HL["/church-website-demo/_next/static/chunks/1jlraogvkz91i.css","style"]
-:HL["/church-website-demo/assets/images/about-story.jpg","image"]
-:HL["/church-website-demo/assets/images/about-church.jpg","image"]
+:HL["/church-website-demo/_next/static/chunks/3ke-1hryuu0n6.css","style"]
+:HL["/church-website-demo/assets/photos/church-worship.jpg","image",{"fetchPriority":"high"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"about","h":96,"c":"$Q2"}]]
-0:{"b":"pmFuJ7VNM_yAAs7fpclcB","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"pa1CffIXA7M_aTz280MAQ","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
